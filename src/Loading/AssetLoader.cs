@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ZkMenu.src
+namespace ZkMenu.src.Loading
 {
-    internal class AssetLoader
+    public class AssetLoader
     {
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace ZkMenu
+﻿namespace ZkMenu.src
 {
     /// <summary>
     /// This class is used to provide information about your mod to BepInEx.
