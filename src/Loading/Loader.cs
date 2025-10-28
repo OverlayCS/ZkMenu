@@ -30,5 +30,10 @@ namespace ZkMenu.src.Loading
         {
             Main.disabled();
         }
+
+        public void OnGUI()
+        {
+            Main.gui();
+        }
     }
 }
